@@ -6,8 +6,8 @@ básico do pedido, e adicionar o valor do frete. A regra para cálculo do frete 
 
 |          Valor básico do pedido (sem desconto)          | Frete              |           
 |---------------------------------------------------------|--------------------|
-| Abaixo de RR$ 100.00                                    | R$ 20.00           |     
-| De R$ 100.00 até R$ 200.00 exclusive                    | R$ 12.00           |          
+| Abaixo de R$ 100.00                                     | R$ 20.00           |     
+| Entre R$ 100.00 até R$ 200.00 exclusive                 | R$ 12.00           |          
 | R$ 200.00 ou mais                                       | Grátis             |   
 
 ## Exemplo 1:
